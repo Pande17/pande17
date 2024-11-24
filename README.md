@@ -1,19 +1,74 @@
-<h1 align="center">Hi 👋, I'm Pande Feri. Welcome to my github Pande Feri</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h1 align="center">Hi, I am Pande Feri👋</h1>
 
-- 🔭 I’m currently working on **home**
+###
 
-- 🌱 I’m currently learning **Golang and C++**
+<h2 align="center">Junior Backend Developer</h2>
 
-- 👨‍🎓 I’m currently studying on **SMK TI Bali Global Denpasar**
+###
 
-- ⚡ Fun fact, **I'm not smart, but I'm a hard worker**
+<h3 align="left">😁 About Me</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/pandefw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pandefw" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<ul>
+  <li>🎓 Student At SMK TI BALI GLOBAL DENPASAR</li>
+  <li>🔧 Backend Enginner</li> 
+  <li>📍 Bali, Indonesia</li>  
+  <li>🤖 Hobby : Robotics</li>  
+</ul>
 
+###
+
+<h3 align="left">🚀 My Developer Jouney</h3>
+
+###
+
+<ul>
+  <li>🌱 Currently Learning : Go</li>
+  <li>💡 Interests About : Building backend application</li> 
+  <li>🎯 Goal : Becoming expert backend developer</li> 
+</ul>
+
+###
+
+<h3 align="left">🖥️ Tech Stack</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
+</div>
+
+###
+
+
+<h3 align="left">🌟 Code Activity</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryndraa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=false&order=2" height="155" alt="languages graph"  />
+  <img width="2" />
+  <img src="https://streak-stats.demolab.com?user=aryndraa&locale=en&mode=weekly&theme=aura&hide_border=false&border_radius=5&order=3" height="155" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">🤝 Let's Connect!</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/pandefw/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+</div>
